@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/FTMMaoGe/backup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-[Jekyll](https://htmlpreview.github.io/github.com/FTMMaoGe/2020-12th/blob/main/%5B飞天猫兄弟盟%5D%20-%202020-12-03%20兄弟沙龙1%20-%20全国第一个跨性别兄弟活动是啥样？.html) 
+[Jekyll](https://htmlpreview.github.io//?https://github.com/FTMMaoGe/2020-12th/blob/main/%5B飞天猫兄弟盟%5D%20-%202020-12-03%20兄弟沙龙1%20-%20全国第一个跨性别兄弟活动是啥样？.html) 
 
 ### Markdown
 
