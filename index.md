@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1(htmlpreview.github.io/FTMMaoGe/2020-12th.git?)
+# [Header 1](htmlpreview.github.io/FTMMaoGe/2020-12th.git?)
 ## Header 2
 ### Header 3
 
