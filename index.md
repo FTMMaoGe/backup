@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
- [Header 1](htmlpreview.github.io/?https://github.com/FTMMaoGe/backup/blob/gh-pages/2020-12-03AB.html)
+ [Header 1](https://fordtin.github.io/backup/?https://github.com/FTMMaoGe/backup/blob/gh-pages/2020-12-03AB.html)
 
 ```markdown
 Syntax highlighted code block
